@@ -1,0 +1,6 @@
+streamlit==1.33.0
+PyMuPDF==1.23.18
+langchain-ibm==0.1.7
+langchain-community==0.2.5
+faiss-cpu==1.8.0
+sentence-transformers==2.7.0
